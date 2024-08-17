@@ -3,7 +3,7 @@ layout: home
 title: 
 ---
 
-Stories from Afghan women and girls.
+Stories from the student's of the Aspire Academy
 
 ![alt](/assets/images/afg.jpeg)
 

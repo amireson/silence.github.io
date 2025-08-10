@@ -1,0 +1,12 @@
+---
+# Only front matter so Jekyll processes it
+---
+
+@import "minima";
+
+/* Your overrides below */
+.post-title:lang(fa) {
+  text-align: right;
+  direction: rtl;
+}
+

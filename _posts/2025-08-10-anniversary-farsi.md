@@ -1,6 +1,7 @@
 ---
 layout: post
 title: زندگی بین دو قطب امید و نا امیدی-انتخاب ما امید است 
+lang: fa
 ---
 
 <div dir="rtl">

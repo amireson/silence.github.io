@@ -3,6 +3,8 @@ layout: post
 title: Living between the poles of despair and hope - we choose hope
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GpXkZRUtDr4?si=SVgJ585BhOaHitLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 This is a message to all the girls in Afghanistan, from the students of Chela. Today marks four years that we have been living in this nightmare. The school gates that once welcomed us to a world of dreams and ambitions now stand locked, shutting us out only because we are girls. We cannot study or work. Some of us are forced to marry. Some of us face domestic violence. Stepping outside our homes brings with it the constant fear of being taken away by the Taliban. There is even a new term — “housegirl”. It reflects how women’s roles have been pushed backward, leaving us invisible and unheard in public life. Some of us cannot bear this pain and we have lost our friends to despair.
 
 But today, we have a message for you all. The message is simple – choose hope. As Victor Frankl says “The last of the human freedoms: to choose one's attitude in any given set of circumstances, to choose one's own way.” You have a choice between despair and hope. You must choose hope. We did. We are a group of girls that are living proof that you can do it. Here’s how we did it.
